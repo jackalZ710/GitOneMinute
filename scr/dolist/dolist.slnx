@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../dolist2/dolist2.vcxproj" Id="baa9ef05-2970-43cf-872e-1336ee0c0fbd" />
+  <Project Path="../dolist3/dolist3.vcxproj" Id="7b949feb-3601-4758-88e8-6d2e01cc0ac3" />
+  <Project Path="dolist.vcxproj" Id="98ad5783-3948-43e6-b17c-4e404b641e3e" />
+</Solution>
